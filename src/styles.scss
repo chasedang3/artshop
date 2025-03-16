@@ -1558,20 +1558,20 @@ button {
 
 /*--- Pattern Overlay
   -----------------------------------------------*/
-.pattern-overlay {
-    background-image: url(images/pattern1.png);
-    background-repeat: no-repeat;
-    background-position: top right;
-}
+// .pattern-overlay {
+//     background-image: url(assets/images/pattern.png);
+//     background-repeat: no-repeat;
+//     background-position: top right;
+// }
 
 .leaf-pattern-overlay {
-    background-image: url(images/leaf.png);
+    background-image: url(assets/images/leaf.png);
     background-repeat: no-repeat;
     background-position: bottom left;
 }
 
 .corner-pattern-overlay {
-    background-image: url(images/pattern2.png);
+    background-image: url(assets/images/pattern2.png);
     background-repeat: no-repeat;
     background-position: top right;
 }
